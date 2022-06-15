@@ -5,9 +5,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: Simran Khanna
    # Additional Authors:
-   # <EugenGoitu>
+   # <simrank0>
 
    # Input:
    # p, principal amount
